@@ -5,11 +5,10 @@
 -FLEX.HTML WAS MODIFYING THE FILE USING FLEX
 
 ## TEAM MEMBERS
-|Name|
-______________
-|Shivansh Sharma|
-|Mohit Narula   |
-|               |
+| Name |
+|--------|
+| Shivansh Sharma |
+| Mohit Narula |
 
 ## SCREENSHOTS
 
